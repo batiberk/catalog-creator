@@ -1,18 +1,33 @@
-# MacPDF — Nargile Katalog Oluşturucu
+# MacPDF — Satış Katalog Oluşturucu
 
-Telefondan çektiğiniz dikey ürün fotoğraflarıyla katalog PDF’i üreten Windows masaüstü uygulaması (koyu arayüz, PDF’de açık siyah + kırmızı tema).
+MacPDF, farklı sektörlerde kullanılabilen bir Windows masaüstü uygulamasıdır.  
+Ürün görselleri, açıklamalar ve fiyatlarla profesyonel satış katalogları oluşturur; hem dikey hem yatay görselleri destekler.
 
-## Özellikler
+## Öne Çıkan Özellikler
 
-- **Kapak sayfası:** Özelleştirilebilir başlık ve dükkan logosu
-- **Ürün sayfaları:** Sayfada **2 ürün**, katalog düzeni (üstte fotoğraf solda, altta fotoğraf sağda) + kısa açıklama + fiyat
-- PDF teması: açık siyah zemin, kırmızı vurgular
-- **Alt bilgi:** Web sitesi, telefon, sayfa numarası
-- Projeyi `.macpdf.json` olarak kaydetme / açma
+- **Sektör bağımsız kullanım:** Nargileye özel değildir; tüm ürün katalogları için uygundur.
+- **Esnek sayfa düzeni:** Sayfa başına `1-4` ürün seçimi.
+- **Dikey + yatay görsel desteği:** Farklı oranlardaki ürün fotoğraflarını otomatik yerleştirir.
+- **Kapak yönetimi:** Katalog başlığı, alt başlık, firma adı ve logo.
+- **Ürün bilgileri:** Ürün adı, kısa açıklama, fiyat ve para birimi.
+- **Para birimi desteği:** `TRY`, `USD`, `EUR`.
+- **PDF önizleme:** Uygulama içinden anlık PDF önizleme ve sayfa gezintisi.
+- **Alt bilgi alanı:** Web sitesi, telefon ve sayfa numarası.
+- **Proje kaydet/aç:** `.macpdf.json` formatında proje dosyası.
+- **PDF’den içe aktarma:** Daha önce oluşturulmuş PDF’den katalogu açıp düzenleyebilme (uyumluluk modu dahil).
+- **Tema:** Koyu arayüz ve kurumsal katalog görünümü.
 
-## Kurulum
+## Teknoloji
 
-Python 3.10+ gerekir.
+- Python
+- CustomTkinter (masaüstü arayüz)
+- ReportLab (PDF üretimi)
+- Pillow (görsel işlemleri)
+- PyMuPDF / pypdf (PDF okuma ve aktarım)
+
+## Kurulum (Geliştirme)
+
+Python `3.10+` önerilir.
 
 ```powershell
 cd c:\Users\PC\Desktop\projects\macpdf
@@ -21,22 +36,34 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## Çalıştırma (geliştirme)
+## Çalıştırma
 
 ```powershell
 python main.py
 ```
 
-## Başka bilgisayara kurulum
+Alternatif:
 
-**`build_setup.bat`** → `dist\MacPDF-Setup.exe` (kurulum sihirbazı)  
-**`build.bat`** → `dist\MacPDF-Portable.zip` (taşınabilir)  
-Ayrıntılar: **[KURULUM.md](KURULUM.md)**
+```powershell
+.\calistir.bat
+```
 
-## Kullanım
+## Derleme ve Dağıtım
 
-1. **Dükkan & Kapak** sekmesinde dükkan adı, katalog başlığı, kapak yazıları, logo ve iletişim bilgilerini girin.
-2. **Ürünler** sekmesinde **+ Ekle** ile ürün ekleyin; dikey fotoğraf, kısa tek satır açıklama ve fiyat yeterli.
-3. **PDF Oluştur** ile kataloğu kaydedin.
+- **Setup (önerilen):** `build_setup.bat` -> `dist\MacPDF-Setup.exe`
+- **Portable:** `build.bat` -> `dist\MacPDF-Portable.zip`
 
-Fiyat alanına `2.450` yazmanız yeterli; PDF’de `₺ 2.450` olarak görünür.
+Kurulum detayları için: [KURULUM.md](KURULUM.md)
+
+## Kullanım Akışı
+
+1. **Dükkan & Kapak** alanında firma bilgilerini ve kapak metinlerini girin.
+2. **Ürünler** sekmesinde ürünleri ekleyin (görsel + açıklama + fiyat + para birimi).
+3. Sayfa başına ürün adedini seçin (`1-4`).
+4. Önizleme ile kontrol edin.
+5. **PDF Oluştur** ile çıktıyı alın.
+
+## Notlar
+
+- Fiyat alanına `2450` veya `2.450` gibi değerler girilebilir; PDF’de uygun formatta gösterilir.
+- Eski PDF’lerden yapılan içe aktarımlarda bazı alanlar eksik gelebilir; düzenleyip yeniden PDF üretmeniz önerilir.
