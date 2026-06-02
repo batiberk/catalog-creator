@@ -1,0 +1,13 @@
+.venv/
+dist/
+build/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+_preview_temp.pdf
+*.rar
+*.zip
+*.exe

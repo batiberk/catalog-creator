@@ -1,0 +1,614 @@
+{
+  "settings": {
+    "shop_name": "MAC LOUNGE SHOP",
+    "catalog_subtitle": "ÜRÜN KATALOĞU 2025",
+    "cover_title": "TOPTAN ALIMLAR İÇİN FİYAT İSTEYİNİZ.",
+    "cover_subtitle": "MAC TAKIM GRUPLARI İÇİN AYRI LİSTE İSTEYİNİZ.",
+    "logo_path": "",
+    "website": "INSTAGRAM:@MACLOUNGE.SHOP",
+    "phone": "+90 501 100 99 77",
+    "products_per_page": 2
+  },
+  "products": [
+    {
+      "name": "EL BOMBER DJ",
+      "description": "",
+      "price": "100",
+      "price_currency": "USD",
+      "image_path": "C:/Users/PC/Downloads/WhatsApp Image 2026-06-02 at 16.07.49.jpeg",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "XHOOB GO ON REPasdasdas sadsa",
+      "description": "",
+      "price": "160",
+      "price_currency": "USD",
+      "image_path": "C:/Users/PC/Downloads/WhatsApp Image 2026-06-02 at 16.08.05.jpeg",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "WD TRADİ REP",
+      "description": "",
+      "price": "155",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "NA GRANİ MODEL 2 REP",
+      "description": "",
+      "price": "150",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "JAPONA SATORİ REP",
+      "description": "WHİTE-GOLD CHERRY-SİLVER GREEN-GOLD GREEN-SİLVER",
+      "price": "260",
+      "price_currency": "USD",
+      "image_path": "C:/Users/PC/Desktop/hasan.jpg",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "HP ROCKSTAR REP",
+      "description": "",
+      "price": "100",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "EL BOMBER MOTO",
+      "description": "",
+      "price": "120",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "HOOKAHPLACE OLDSCHOOL REP",
+      "description": "",
+      "price": "165",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "WOOKAH REP",
+      "description": "",
+      "price": "210",
+      "price_currency": "USD",
+      "image_path": "C:/Users/PC/Desktop/breaking-bad-walter-white-heisenberg-3d-model-stl.jpg",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "DARKSİDE NEO REP",
+      "description": "",
+      "price": "100",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "STEAMULATİON MİNİ REP",
+      "description": "",
+      "price": "160",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "MATTPEAR READY S LİTE REP",
+      "description": "",
+      "price": "160",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "STEAMULATİON ULTİMATE REP",
+      "description": "",
+      "price": "180",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "ALPHA MİSHA REP",
+      "description": "",
+      "price": "60",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "EL BOMBER SANSARA REP",
+      "description": "",
+      "price": "105",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "ALPHA ORO REP",
+      "description": "",
+      "price": "130",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "MAKLAUD 4RUNNER REP",
+      "description": "",
+      "price": "100",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "GEOMETRY BİG BRO REP",
+      "description": "",
+      "price": "100",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "MOZE BREEZE PRO REP",
+      "description": "",
+      "price": "150",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "EL BOMBER  SHARUKEN REP",
+      "description": "",
+      "price": "60",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "MAKLAUD PROJECT 21 REP",
+      "description": "",
+      "price": "260",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "AMOTİON FUTR REP",
+      "description": "",
+      "price": "100",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "BLUETOOTH TAKIM",
+      "description": "ALT KISMINDA ÖZEL BLUETOOTH HOPARLÖRÜ RGB IŞIĞI İLE BİRLİKTE SUNUM İÇİNDİR",
+      "price": "280",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "DARKSİDE İNTRO REP",
+      "description": "",
+      "price": "100",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "EL BOMBER SHARUKEN REP",
+      "description": "",
+      "price": "60",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "ALPHA X REVERSE REP",
+      "description": "",
+      "price": "100",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "FİGÜR TAKIM",
+      "description": "LÜLE+SİPSİ DAHİL",
+      "price": "75",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "EL BOMBER NURBURGRİNG REP",
+      "description": "",
+      "price": "100",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "KAHVECİ EFTALYA",
+      "description": "",
+      "price": "5500",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "SMALL KAHVECİ BAĞDAT",
+      "description": "",
+      "price": "4500",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "SMALL KAHVECİ MERKÜR",
+      "description": "",
+      "price": "4500",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "KLASİK KAHVECİ",
+      "description": "TAHLİYESİZ SER ŞİŞE TEPSİ",
+      "price": "4000-3500",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "ALPHA FNX HMD REP",
+      "description": "",
+      "price": "20",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "CEZVE",
+      "description": "",
+      "price": "4",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "KALOUD LOTUS1+ REP",
+      "description": "",
+      "price": "4,5",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "KALOUD LOTUS1+ GOLD REP",
+      "description": "",
+      "price": "4,5",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "APPLE ON TOP PROVOST 1 REP",
+      "description": "",
+      "price": "4,5",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "ERKEK TOPRAK BATTAL BOY",
+      "description": "",
+      "price": "150",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "ERKEK TOPRAK BÜYÜK BOY",
+      "description": "",
+      "price": "120",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "DİŞİ TOPRAK LÜLE BÜYÜK BOY",
+      "description": "",
+      "price": "120",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "FOLYO KG",
+      "description": "46MİCRON",
+      "price": "700",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "ORTA BOY TAVA",
+      "description": "",
+      "price": "20",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "HUQQABAZ LÜLE REP",
+      "description": "",
+      "price": "28",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "QUASAR RAAS REP",
+      "description": "",
+      "price": "24",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "BUZLU MARPUÇ",
+      "description": "",
+      "price": "240",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "DOLUM SETİ 1",
+      "description": "",
+      "price": "3",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "DELUM SETİ 2",
+      "description": "",
+      "price": "6",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "MAKLAUD REP MOUTHPİECE",
+      "description": "",
+      "price": "30",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "ASKILIK SİPSİ 1",
+      "description": "",
+      "price": "6,5",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "ASKILIK SİPSİ 2",
+      "description": "",
+      "price": "4",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "SOFTTOUCH MARPUÇ",
+      "description": "",
+      "price": "6",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "POFUDUK ŞİŞE HARBİSİ",
+      "description": "",
+      "price": "175",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "TEPSİ ALTI LED",
+      "description": "",
+      "price": "20",
+      "price_currency": "USD",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "İTHAL LÜLE CONTASI",
+      "description": "",
+      "price": "30",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "PLASTİK SİPSİ",
+      "description": "",
+      "price": "50",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "SİLİKON SİPSİ",
+      "description": "",
+      "price": "60",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "DERİ MARPUÇ",
+      "description": "DETAYLAR İÇİN FİYAT ALINIZ",
+      "price": "2000",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "CEP HERKÜLÜ OCAK",
+      "description": "",
+      "price": "600",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "YUVARLAK OCAK",
+      "description": "",
+      "price": "600",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    },
+    {
+      "name": "FUMARA 200GR",
+      "description": "DETAYLAR İÇİN FİYAT ALINIZ",
+      "price": "350",
+      "price_currency": "TRY",
+      "image_path": "",
+      "category": "",
+      "subtitle": "",
+      "specs": ""
+    }
+  ]
+}
